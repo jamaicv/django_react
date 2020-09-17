@@ -6,3 +6,4 @@ To launch this app, execute following commands inside project folder :
 docker-compose up
 docker-compose exec web python3 manage.py createsuperuser --email admin@example.com --username admin
 ```
+App will then be available at http://localhost:8000/
